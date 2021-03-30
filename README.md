@@ -1,5 +1,5 @@
 # hate-crime-data
-Analysis of FBI data on hate crime in America
+Analysis of FBI data on hate crime in America. See [Medium article](https://nlp-andrew.medium.com/analyzing-data-on-hate-crimes-in-america-from-1991-to-2019-4c82a4aa0b48) for full writeup.
 
 * datasets/hate_crime.csv
 
